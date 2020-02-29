@@ -1,3 +1,5 @@
+# ACTIVIDAD FINAL
+
 - Crear una clase llamada Movie (documentar la clase)
 - La clase tiene los siguientes atributos:
   - Title - Titulo de la pelicula en minusculas
@@ -22,6 +24,6 @@ III - Completar las siguientes oraciones con los valores correctos y meterlos en
 2- Los objetos tienen un unico IDENTIFICADOR y un conjunto comun de ATRIBUTOS Y COMPORTAMIENTO.
 3- Una variable de INSTANCIA existe por toda la vida de un OBJETO.
 4- Los metodos SETS Y GETS tienen acceso a las variables PRIVADAS de sus objetos
-5- los nombres de Clases inician con una letra MAYÚSCULA.
-6- los nombres de Metodos inician con una letra MINÚSCULA.
-7- los nombres de variables inician con una letra MINÚSCULA.
+5- los nombres de Clases inician con una letra MAYÃšSCULA.
+6- los nombres de Metodos inician con una letra MINÃšSCULA.
+7- los nombres de variables inician con una letra MINÃšSCULA.
